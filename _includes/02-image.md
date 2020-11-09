@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My Profile Picture](https://github.com/gulec2000/serdar.github.io/blob/master/images/serdar.jpg)
